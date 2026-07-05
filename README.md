@@ -22,20 +22,4 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 ---
 
 Last Updated:
-05 July 2026 19:37 UTC
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0053-maximum-subarray](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0053-maximum-subarray) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0053-maximum-subarray](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0053-maximum-subarray) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0053-maximum-subarray](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0053-maximum-subarray) |
-<!---LeetCode Topics End-->
+05 July 2026 19:38 UTC
