@@ -4,7 +4,7 @@ Automatically synced from LeetCode using **LeetHub v2**.
 
 ## 📊 Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/<YOUR_LEETCODE_USERNAME>?theme=dark&font=baloo&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/cdlPAR9B41?theme=dark&font=baloo&ext=contest)
 
 ---
 
