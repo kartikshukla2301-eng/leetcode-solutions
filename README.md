@@ -19,3 +19,19 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 Last Updated:
 05 July 2026 19:26 UTC
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+<!---LeetCode Topics End-->
