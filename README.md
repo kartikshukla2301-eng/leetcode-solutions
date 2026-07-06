@@ -27,16 +27,4 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 ---
 
 Last Updated:
-06 July 2026 17:37 UTC
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0238-product-of-array-except-self](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
-## Prefix Sum
-|  |
-| ------- |
-| [0238-product-of-array-except-self](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
-<!---LeetCode Topics End-->
+06 July 2026 17:38 UTC
