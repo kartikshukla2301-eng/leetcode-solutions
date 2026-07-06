@@ -24,3 +24,15 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 Last Updated:
 05 July 2026 19:39 UTC
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
+<!---LeetCode Topics End-->
