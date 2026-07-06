@@ -4,8 +4,8 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 ## 📊 Statistics
 
-- ✅ Total Solved : 8
-- 🟢 Easy : 4
+- ✅ Total Solved : 9
+- 🟢 Easy : 5
 - 🟡 Medium : 2
 - 🔴 Hard : 2
 
@@ -17,6 +17,7 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 - 2215-find-the-difference-of-two-arrays (🟢 Easy)
 - 1301-number-of-paths-with-max-score (🔴 Hard)
 - 1288-remove-covered-intervals (🟡 Medium)
+- 0217-contains-duplicate (🟢 Easy)
 - 0169-majority-element (🟢 Easy)
 - 0136-single-number (🟢 Easy)
 - 0053-maximum-subarray (🟡 Medium)
@@ -25,20 +26,4 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 ---
 
 Last Updated:
-06 July 2026 17:35 UTC
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0217-contains-duplicate](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0217-contains-duplicate) |
-## Hash Table
-|  |
-| ------- |
-| [0217-contains-duplicate](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0217-contains-duplicate) |
-## Sorting
-|  |
-| ------- |
-| [0217-contains-duplicate](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0217-contains-duplicate) |
-<!---LeetCode Topics End-->
+06 July 2026 17:36 UTC
