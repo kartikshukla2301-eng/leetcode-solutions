@@ -25,3 +25,27 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 Last Updated:
 06 July 2026 17:34 UTC
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0169-majority-element) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0169-majority-element) |
+<!---LeetCode Topics End-->
