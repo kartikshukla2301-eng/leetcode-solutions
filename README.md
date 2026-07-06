@@ -4,9 +4,9 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 ## 📊 Statistics
 
-- ✅ Total Solved : 9
+- ✅ Total Solved : 10
 - 🟢 Easy : 5
-- 🟡 Medium : 2
+- 🟡 Medium : 3
 - 🔴 Hard : 2
 
 ---
@@ -17,6 +17,7 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 - 2215-find-the-difference-of-two-arrays (🟢 Easy)
 - 1301-number-of-paths-with-max-score (🔴 Hard)
 - 1288-remove-covered-intervals (🟡 Medium)
+- 0238-product-of-array-except-self (🟡 Medium)
 - 0217-contains-duplicate (🟢 Easy)
 - 0169-majority-element (🟢 Easy)
 - 0136-single-number (🟢 Easy)
@@ -26,16 +27,4 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 ---
 
 Last Updated:
-06 July 2026 17:36 UTC
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0238-product-of-array-except-self](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
-## Prefix Sum
-|  |
-| ------- |
-| [0238-product-of-array-except-self](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
-<!---LeetCode Topics End-->
+06 July 2026 17:37 UTC
