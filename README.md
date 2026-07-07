@@ -28,3 +28,27 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 Last Updated:
 07 July 2026 18:53 UTC
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+<!---LeetCode Topics End-->
