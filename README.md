@@ -4,8 +4,8 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 ## 📊 Statistics
 
-- ✅ Total Solved : 11
-- 🟢 Easy : 6
+- ✅ Total Solved : 12
+- 🟢 Easy : 7
 - 🟡 Medium : 3
 - 🔴 Hard : 2
 
@@ -13,6 +13,7 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 ## 📂 Latest Problems
 
+- 3754-concatenate-non-zero-digits-and-multiply-by-sum-i (🟢 Easy)
 - 3731-find-missing-elements (🟢 Easy)
 - 2215-find-the-difference-of-two-arrays (🟢 Easy)
 - 1301-number-of-paths-with-max-score (🔴 Hard)
@@ -22,17 +23,8 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 - 0217-contains-duplicate (🟢 Easy)
 - 0169-majority-element (🟢 Easy)
 - 0136-single-number (🟢 Easy)
-- 0053-maximum-subarray (🟡 Medium)
 
 ---
 
 Last Updated:
-06 July 2026 17:40 UTC
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
-<!---LeetCode Topics End-->
+07 July 2026 05:47 UTC
