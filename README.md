@@ -28,3 +28,11 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 Last Updated:
 06 July 2026 17:40 UTC
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+<!---LeetCode Topics End-->
