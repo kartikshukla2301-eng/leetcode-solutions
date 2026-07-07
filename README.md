@@ -4,9 +4,9 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 ## 📊 Statistics
 
-- ✅ Total Solved : 13
+- ✅ Total Solved : 14
 - 🟢 Easy : 8
-- 🟡 Medium : 3
+- 🟡 Medium : 4
 - 🔴 Hard : 2
 
 ---
@@ -28,19 +28,3 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 Last Updated:
 07 July 2026 18:52 UTC
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0011-container-with-most-water](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0011-container-with-most-water) |
-## Two Pointers
-|  |
-| ------- |
-| [0011-container-with-most-water](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0011-container-with-most-water) |
-## Greedy
-|  |
-| ------- |
-| [0011-container-with-most-water](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0011-container-with-most-water) |
-<!---LeetCode Topics End-->
