@@ -28,3 +28,23 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 Last Updated:
 08 July 2026 17:56 UTC
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Depth-First Search
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Union-Find
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Graph Theory
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+<!---LeetCode Topics End-->
