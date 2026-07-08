@@ -4,15 +4,16 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 ## 📊 Statistics
 
-- ✅ Total Solved : 15
+- ✅ Total Solved : 16
 - 🟢 Easy : 8
-- 🟡 Medium : 4
+- 🟡 Medium : 5
 - 🔴 Hard : 3
 
 ---
 
 ## 📂 Latest Problems
 
+- 3756-concatenate-non-zero-digits-and-multiply-by-sum-ii (🟡 Medium)
 - 3754-concatenate-non-zero-digits-and-multiply-by-sum-i (🟢 Easy)
 - 3731-find-missing-elements (🟢 Easy)
 - 2215-find-the-difference-of-two-arrays (🟢 Easy)
@@ -22,25 +23,8 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 - 0268-missing-number (🟢 Easy)
 - 0238-product-of-array-except-self (🟡 Medium)
 - 0217-contains-duplicate (🟢 Easy)
-- 0169-majority-element (🟢 Easy)
 
 ---
 
 Last Updated:
-07 July 2026 18:54 UTC
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
-## String
-|  |
-| ------- |
-| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
-## Prefix Sum
-|  |
-| ------- |
-| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
-<!---LeetCode Topics End-->
+08 July 2026 17:50 UTC
