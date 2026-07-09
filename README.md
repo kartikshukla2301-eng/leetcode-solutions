@@ -4,8 +4,8 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 ## 📊 Statistics
 
-- ✅ Total Solved : 23
-- 🟢 Easy : 9
+- ✅ Total Solved : 24
+- 🟢 Easy : 10
 - 🟡 Medium : 10
 - 🔴 Hard : 4
 
@@ -27,16 +27,4 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 ---
 
 Last Updated:
-09 July 2026 19:16 UTC
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-|  |
-| ------- |
-| [0344-reverse-string](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0344-reverse-string) |
-## String
-|  |
-| ------- |
-| [0344-reverse-string](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0344-reverse-string) |
-<!---LeetCode Topics End-->
+09 July 2026 19:17 UTC
