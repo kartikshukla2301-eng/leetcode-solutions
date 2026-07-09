@@ -4,9 +4,9 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 ## 📊 Statistics
 
-- ✅ Total Solved : 22
+- ✅ Total Solved : 23
 - 🟢 Easy : 9
-- 🟡 Medium : 9
+- 🟡 Medium : 10
 - 🔴 Hard : 4
 
 ---
@@ -27,20 +27,4 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 ---
 
 Last Updated:
-09 July 2026 19:15 UTC
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-## Two Pointers
-|  |
-| ------- |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-## Binary Search
-|  |
-| ------- |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-<!---LeetCode Topics End-->
+09 July 2026 19:16 UTC
