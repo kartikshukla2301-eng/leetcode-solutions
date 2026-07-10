@@ -4,9 +4,9 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 ## 📊 Statistics
 
-- ✅ Total Solved : 26
+- ✅ Total Solved : 27
 - 🟢 Easy : 10
-- 🟡 Medium : 10
+- 🟡 Medium : 11
 - 🔴 Hard : 6
 
 ---
@@ -27,24 +27,4 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 ---
 
 Last Updated:
-10 July 2026 19:41 UTC
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0209-minimum-size-subarray-sum](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
-## Binary Search
-|  |
-| ------- |
-| [0209-minimum-size-subarray-sum](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
-## Sliding Window
-|  |
-| ------- |
-| [0209-minimum-size-subarray-sum](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
-## Prefix Sum
-|  |
-| ------- |
-| [0209-minimum-size-subarray-sum](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
-<!---LeetCode Topics End-->
+10 July 2026 19:42 UTC
