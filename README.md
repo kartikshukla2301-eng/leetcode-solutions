@@ -4,10 +4,10 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 ## 📊 Statistics
 
-- ✅ Total Solved : 25
+- ✅ Total Solved : 26
 - 🟢 Easy : 10
 - 🟡 Medium : 10
-- 🔴 Hard : 5
+- 🔴 Hard : 6
 
 ---
 
@@ -27,20 +27,4 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 ---
 
 Last Updated:
-10 July 2026 19:39 UTC
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [0076-minimum-window-substring](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0076-minimum-window-substring) |
-## String
-|  |
-| ------- |
-| [0076-minimum-window-substring](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0076-minimum-window-substring) |
-## Sliding Window
-|  |
-| ------- |
-| [0076-minimum-window-substring](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0076-minimum-window-substring) |
-<!---LeetCode Topics End-->
+10 July 2026 19:41 UTC
