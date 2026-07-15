@@ -28,3 +28,15 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 Last Updated:
 10 July 2026 19:42 UTC
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+<!---LeetCode Topics End-->
