@@ -4,9 +4,9 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 ## 📊 Statistics
 
-- ✅ Total Solved : 31
+- ✅ Total Solved : 32
 - 🟢 Easy : 12
-- 🟡 Medium : 12
+- 🟡 Medium : 13
 - 🔴 Hard : 7
 
 ---
@@ -28,23 +28,3 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 Last Updated:
 15 July 2026 18:24 UTC
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Depth-First Search
-|  |
-| ------- |
-| [2685-count-the-number-of-complete-components](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
-## Breadth-First Search
-|  |
-| ------- |
-| [2685-count-the-number-of-complete-components](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
-## Union-Find
-|  |
-| ------- |
-| [2685-count-the-number-of-complete-components](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
-## Graph Theory
-|  |
-| ------- |
-| [2685-count-the-number-of-complete-components](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
-<!---LeetCode Topics End-->
