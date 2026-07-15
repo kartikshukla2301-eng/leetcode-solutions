@@ -4,8 +4,8 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 ## 📊 Statistics
 
-- ✅ Total Solved : 30
-- 🟢 Easy : 11
+- ✅ Total Solved : 31
+- 🟢 Easy : 12
 - 🟡 Medium : 12
 - 🔴 Hard : 7
 
@@ -28,19 +28,3 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 Last Updated:
 15 July 2026 18:24 UTC
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1331-rank-transform-of-an-array](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
-## Hash Table
-|  |
-| ------- |
-| [1331-rank-transform-of-an-array](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
-## Sorting
-|  |
-| ------- |
-| [1331-rank-transform-of-an-array](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
-<!---LeetCode Topics End-->
