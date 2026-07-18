@@ -4,8 +4,8 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 ## 📊 Statistics
 
-- ✅ Total Solved : 35
-- 🟢 Easy : 12
+- ✅ Total Solved : 36
+- 🟢 Easy : 13
 - 🟡 Medium : 14
 - 🔴 Hard : 9
 
@@ -27,20 +27,4 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 ---
 
 Last Updated:
-17 July 2026 19:11 UTC
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1979-find-greatest-common-divisor-of-array](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
-## Math
-|  |
-| ------- |
-| [1979-find-greatest-common-divisor-of-array](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
-## Number Theory
-|  |
-| ------- |
-| [1979-find-greatest-common-divisor-of-array](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
-<!---LeetCode Topics End-->
+18 July 2026 15:58 UTC
