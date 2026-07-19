@@ -4,9 +4,9 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 ## 📊 Statistics
 
-- ✅ Total Solved : 36
+- ✅ Total Solved : 37
 - 🟢 Easy : 13
-- 🟡 Medium : 14
+- 🟡 Medium : 15
 - 🔴 Hard : 9
 
 ---
@@ -27,4 +27,4 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 ---
 
 Last Updated:
-18 July 2026 15:58 UTC
+19 July 2026 17:43 UTC
