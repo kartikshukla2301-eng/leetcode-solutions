@@ -28,3 +28,19 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 Last Updated:
 24 July 2026 15:39 UTC
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1260-shift-2d-grid) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1260-shift-2d-grid) |
+<!---LeetCode Topics End-->
