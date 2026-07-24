@@ -28,3 +28,19 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 Last Updated:
 24 July 2026 17:22 UTC
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+<!---LeetCode Topics End-->
