@@ -4,9 +4,9 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 ## 📊 Statistics
 
-- ✅ Total Solved : 38
+- ✅ Total Solved : 39
 - 🟢 Easy : 13
-- 🟡 Medium : 16
+- 🟡 Medium : 17
 - 🔴 Hard : 9
 
 ---
@@ -27,20 +27,4 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 ---
 
 Last Updated:
-24 July 2026 15:34 UTC
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-|  |
-| ------- |
-| [0005-longest-palindromic-substring](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
-## String
-|  |
-| ------- |
-| [0005-longest-palindromic-substring](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0005-longest-palindromic-substring](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
-<!---LeetCode Topics End-->
+24 July 2026 15:39 UTC
