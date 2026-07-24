@@ -28,3 +28,15 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 Last Updated:
 24 July 2026 16:48 UTC
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0069-sqrtx) |
+<!---LeetCode Topics End-->
