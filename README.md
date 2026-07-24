@@ -4,9 +4,9 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 ## 📊 Statistics
 
-- ✅ Total Solved : 37
+- ✅ Total Solved : 38
 - 🟢 Easy : 13
-- 🟡 Medium : 15
+- 🟡 Medium : 16
 - 🔴 Hard : 9
 
 ---
@@ -21,30 +21,10 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 - 3620-network-recovery-pathways (🔴 Hard)
 - 3534-path-existence-queries-in-a-graph-ii (🔴 Hard)
 - 3532-path-existence-queries-in-a-graph-i (🟡 Medium)
+- 3514-number-of-unique-xor-triplets-ii (🟡 Medium)
 - 3336-find-the-number-of-subsequences-with-equal-gcd (🔴 Hard)
-- 3312-sorted-gcd-pair-queries (🔴 Hard)
 
 ---
 
 Last Updated:
-19 July 2026 17:43 UTC
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3514-number-of-unique-xor-triplets-ii](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
-## Math
-|  |
-| ------- |
-| [3514-number-of-unique-xor-triplets-ii](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
-## Bit Manipulation
-|  |
-| ------- |
-| [3514-number-of-unique-xor-triplets-ii](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
-## Enumeration
-|  |
-| ------- |
-| [3514-number-of-unique-xor-triplets-ii](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
-<!---LeetCode Topics End-->
+24 July 2026 15:34 UTC
