@@ -4,9 +4,9 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 ## 📊 Statistics
 
-- ✅ Total Solved : 40
-- 🟢 Easy : 14
-- 🟡 Medium : 17
+- ✅ Total Solved : 43
+- 🟢 Easy : 15
+- 🟡 Medium : 19
 - 🔴 Hard : 9
 
 ---
@@ -27,22 +27,4 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 ---
 
 Last Updated:
-24 July 2026 16:00 UTC
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0006-zigzag-conversion](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0006-zigzag-conversion) |
-## Array
-|  |
-| ------- |
-| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
-| [0035-search-insert-position](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0035-search-insert-position) |
-## Binary Search
-|  |
-| ------- |
-| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
-| [0035-search-insert-position](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0035-search-insert-position) |
-<!---LeetCode Topics End-->
+24 July 2026 16:48 UTC
