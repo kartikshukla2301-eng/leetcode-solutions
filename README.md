@@ -4,9 +4,9 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 ## 📊 Statistics
 
-- ✅ Total Solved : 45
+- ✅ Total Solved : 46
 - 🟢 Easy : 16
-- 🟡 Medium : 20
+- 🟡 Medium : 21
 - 🔴 Hard : 9
 
 ---
@@ -21,10 +21,10 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 - 3620-network-recovery-pathways (🔴 Hard)
 - 3534-path-existence-queries-in-a-graph-ii (🔴 Hard)
 - 3532-path-existence-queries-in-a-graph-i (🟡 Medium)
+- 3517-smallest-palindromic-rearrangement-i (🟡 Medium)
 - 3514-number-of-unique-xor-triplets-ii (🟡 Medium)
-- 3336-find-the-number-of-subsequences-with-equal-gcd (🔴 Hard)
 
 ---
 
 Last Updated:
-24 July 2026 17:22 UTC
+28 July 2026 10:56 UTC
