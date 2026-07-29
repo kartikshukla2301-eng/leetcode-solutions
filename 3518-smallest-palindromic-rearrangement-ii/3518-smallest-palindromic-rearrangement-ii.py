@@ -10,17 +10,18 @@ class Solution:
         half = [0] * 26
         mid = ""
 
-        for ch in sorted(freq):
-            if freq[ch] % 2:
+        for ch, f in freq.items():
+            half[ord(ch) - ord('a')] = f // 2
+            if f & 1:
                 mid = ch
-            half[ord(ch) - 97] = freq[ch] // 2
 
         if self.countWays(half) < k:
             return ""
 
+        m = len(s) // 2
         left = []
 
-        while sum(half):
+        for _ in range(m):
             for i in range(26):
                 if half[i] == 0:
                     continue
@@ -29,7 +30,7 @@ class Solution:
                 ways = self.countWays(half)
 
                 if ways >= k:
-                    left.append(chr(i + 97))
+                    left.append(chr(i + ord('a')))
                     break
 
                 k -= ways
@@ -39,15 +40,14 @@ class Solution:
         return left + mid + left[::-1]
 
     def countWays(self, cnt):
-        total = sum(cnt)
+        rem = sum(cnt)
         ans = 1
-        rem = total
 
         for c in cnt:
             if c:
                 ans *= comb(rem, c)
-                if ans > self.LIMIT:
+                if ans >= self.LIMIT:
                     return self.LIMIT
                 rem -= c
 
-        return min(ans, self.LIMIT)
+        return ans
