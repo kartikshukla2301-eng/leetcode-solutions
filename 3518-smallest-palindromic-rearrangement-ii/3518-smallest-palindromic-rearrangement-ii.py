@@ -1,53 +1,44 @@
-from collections import Counter
-from math import comb
-
 class Solution:
-    LIMIT = 10**6 + 1
-
-    def smallestPalindrome(self, s: str, k: int) -> str:
-        freq = Counter(s)
-
-        half = [0] * 26
-        mid = ""
-
-        for ch, f in freq.items():
-            half[ord(ch) - ord('a')] = f // 2
-            if f & 1:
-                mid = ch
-
-        if self.countWays(half) < k:
+    def smallestPalindrome(self, S: str, K: int) -> str:
+        import collections, math
+        n = len(S)
+        ans = [""] * n
+        count = collections.Counter(S[: n // 2])
+        if n & 1:
+            ans[n // 2] = S[n // 2]
+        tot = 0
+        ways = 1
+        i = 0
+        for c in sorted(count, reverse=True):
+            tot += count[c]
+            ways *= math.comb(tot, count[c])
+            if ways > K:
+                for c2 in sorted(count):
+                    if c2 >= c:
+                        break
+                    for loops in range(count[c2]):
+                        ans[i] = ans[~i] = c2
+                        i += 1
+                    count[c2] = 0
+        ways = 1
+        tot = sum(count.values())
+        for k in sorted(count):
+            ways *= math.comb(tot, count[k])
+            tot -= count[k]
+        if ways < K:
             return ""
-
-        m = len(s) // 2
-        left = []
-
-        for _ in range(m):
-            for i in range(26):
-                if half[i] == 0:
-                    continue
-
-                half[i] -= 1
-                ways = self.countWays(half)
-
-                if ways >= k:
-                    left.append(chr(i + ord('a')))
-                    break
-
-                k -= ways
-                half[i] += 1
-
-        left = "".join(left)
-        return left + mid + left[::-1]
-
-    def countWays(self, cnt):
-        rem = sum(cnt)
-        ans = 1
-
-        for c in cnt:
-            if c:
-                ans *= comb(rem, c)
-                if ans >= self.LIMIT:
-                    return self.LIMIT
-                rem -= c
-
-        return ans
+        tot = sum(count.values())
+        while tot:
+            for c in sorted(count):
+                if count[c]:
+                    ways2 = ways * count[c] // tot
+                    if ways2 < K:
+                        K -= ways2
+                    else:
+                        ans[i] = ans[~i] = c
+                        i += 1
+                        ways = ways2
+                        count[c] -= 1
+                        tot -= 1
+                        break
+        return "".join(ans)
