@@ -28,3 +28,27 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 Last Updated:
 28 July 2026 10:56 UTC
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Math
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## String
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Counting
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+<!---LeetCode Topics End-->
