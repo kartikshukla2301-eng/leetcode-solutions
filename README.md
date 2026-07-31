@@ -4,9 +4,9 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 ## 📊 Statistics
 
-- ✅ Total Solved : 50
+- ✅ Total Solved : 51
 - 🟢 Easy : 17
-- 🟡 Medium : 22
+- 🟡 Medium : 23
 - 🔴 Hard : 11
 
 ---
@@ -27,16 +27,4 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 ---
 
 Last Updated:
-31 July 2026 18:09 UTC
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-|  |
-| ------- |
-| [0019-remove-nth-node-from-end-of-list](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
-## Two Pointers
-|  |
-| ------- |
-| [0019-remove-nth-node-from-end-of-list](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
-<!---LeetCode Topics End-->
+31 July 2026 18:11 UTC
