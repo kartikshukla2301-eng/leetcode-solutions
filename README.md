@@ -28,3 +28,15 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 Last Updated:
 31 July 2026 18:09 UTC
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+<!---LeetCode Topics End-->
