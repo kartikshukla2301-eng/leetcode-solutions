@@ -28,3 +28,11 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 Last Updated:
 01 August 2026 17:51 UTC
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1470-shuffle-the-array](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1470-shuffle-the-array) |
+<!---LeetCode Topics End-->
