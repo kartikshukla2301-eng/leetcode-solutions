@@ -4,8 +4,8 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 ## 📊 Statistics
 
-- ✅ Total Solved : 57
-- 🟢 Easy : 22
+- ✅ Total Solved : 58
+- 🟢 Easy : 23
 - 🟡 Medium : 24
 - 🔴 Hard : 11
 
@@ -27,16 +27,4 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 ---
 
 Last Updated:
-01 August 2026 17:57 UTC
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
-## Hash Table
-|  |
-| ------- |
-| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
-<!---LeetCode Topics End-->
+01 August 2026 17:58 UTC
