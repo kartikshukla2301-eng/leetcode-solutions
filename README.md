@@ -28,3 +28,11 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 Last Updated:
 01 August 2026 17:52 UTC
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0485-max-consecutive-ones](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+<!---LeetCode Topics End-->
