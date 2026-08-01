@@ -28,3 +28,27 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 Last Updated:
 01 August 2026 06:27 UTC
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0486-predict-the-winner) |
+## Math
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0486-predict-the-winner) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0486-predict-the-winner) |
+<!---LeetCode Topics End-->
