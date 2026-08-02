@@ -4,15 +4,16 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 ## 📊 Statistics
 
-- ✅ Total Solved : 67
+- ✅ Total Solved : 68
 - 🟢 Easy : 24
 - 🟡 Medium : 31
-- 🔴 Hard : 12
+- 🔴 Hard : 13
 
 ---
 
 ## 📂 Latest Problems
 
+- 4013-count-subarrays-with-even-odd-ratio-ii (🔴 Hard)
 - 4012-count-of-unfinished-tasks-after-each-shift (🟡 Medium)
 - 4011-count-subarrays-with-even-odd-ratio-i (🟡 Medium)
 - 3867-sum-of-gcd-of-formed-pairs (🟡 Medium)
@@ -22,9 +23,8 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 - 3658-gcd-of-odd-and-even-sums (🟢 Easy)
 - 3620-network-recovery-pathways (🔴 Hard)
 - 3534-path-existence-queries-in-a-graph-ii (🔴 Hard)
-- 3532-path-existence-queries-in-a-graph-i (🟡 Medium)
 
 ---
 
 Last Updated:
-02 August 2026 15:27 UTC
+02 August 2026 15:28 UTC
