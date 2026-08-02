@@ -28,3 +28,19 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 Last Updated:
 02 August 2026 15:11 UTC
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
+## Stack
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
+## Simulation
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
+<!---LeetCode Topics End-->
