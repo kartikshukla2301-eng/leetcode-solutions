@@ -4,10 +4,10 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 ## 📊 Statistics
 
-- ✅ Total Solved : 64
+- ✅ Total Solved : 65
 - 🟢 Easy : 24
 - 🟡 Medium : 29
-- 🔴 Hard : 11
+- 🔴 Hard : 12
 
 ---
 
@@ -27,20 +27,4 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 ---
 
 Last Updated:
-02 August 2026 15:17 UTC
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0084-largest-rectangle-in-histogram](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
-## Stack
-|  |
-| ------- |
-| [0084-largest-rectangle-in-histogram](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
-## Monotonic Stack
-|  |
-| ------- |
-| [0084-largest-rectangle-in-histogram](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
-<!---LeetCode Topics End-->
+02 August 2026 15:18 UTC
