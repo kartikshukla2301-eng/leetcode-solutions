@@ -4,8 +4,8 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 ## 📊 Statistics
 
-- ✅ Total Solved : 62
-- 🟢 Easy : 23
+- ✅ Total Solved : 63
+- 🟢 Easy : 24
 - 🟡 Medium : 28
 - 🔴 Hard : 11
 
@@ -27,20 +27,4 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 ---
 
 Last Updated:
-02 August 2026 15:15 UTC
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
-## Stack
-|  |
-| ------- |
-| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
-## Monotonic Stack
-|  |
-| ------- |
-| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
-<!---LeetCode Topics End-->
+02 August 2026 15:16 UTC
