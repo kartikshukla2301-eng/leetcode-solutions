@@ -4,9 +4,9 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 ## 📊 Statistics
 
-- ✅ Total Solved : 63
+- ✅ Total Solved : 64
 - 🟢 Easy : 24
-- 🟡 Medium : 28
+- 🟡 Medium : 29
 - 🔴 Hard : 11
 
 ---
@@ -27,20 +27,4 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 ---
 
 Last Updated:
-02 August 2026 15:16 UTC
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0739-daily-temperatures](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0739-daily-temperatures) |
-## Stack
-|  |
-| ------- |
-| [0739-daily-temperatures](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0739-daily-temperatures) |
-## Monotonic Stack
-|  |
-| ------- |
-| [0739-daily-temperatures](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0739-daily-temperatures) |
-<!---LeetCode Topics End-->
+02 August 2026 15:17 UTC
