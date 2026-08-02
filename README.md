@@ -4,9 +4,9 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 ## 📊 Statistics
 
-- ✅ Total Solved : 60
+- ✅ Total Solved : 61
 - 🟢 Easy : 23
-- 🟡 Medium : 26
+- 🟡 Medium : 27
 - 🔴 Hard : 11
 
 ---
@@ -27,20 +27,4 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 ---
 
 Last Updated:
-02 August 2026 15:14 UTC
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0150-evaluate-reverse-polish-notation](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
-## Math
-|  |
-| ------- |
-| [0150-evaluate-reverse-polish-notation](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
-## Stack
-|  |
-| ------- |
-| [0150-evaluate-reverse-polish-notation](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
-<!---LeetCode Topics End-->
+02 August 2026 15:15 UTC
