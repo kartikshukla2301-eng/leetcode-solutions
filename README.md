@@ -28,3 +28,15 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 Last Updated:
 02 August 2026 15:15 UTC
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0636-exclusive-time-of-functions](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0636-exclusive-time-of-functions) |
+## Stack
+|  |
+| ------- |
+| [0636-exclusive-time-of-functions](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0636-exclusive-time-of-functions) |
+<!---LeetCode Topics End-->
