@@ -4,10 +4,10 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 ## 📊 Statistics
 
-- ✅ Total Solved : 68
+- ✅ Total Solved : 69
 - 🟢 Easy : 24
 - 🟡 Medium : 31
-- 🔴 Hard : 13
+- 🔴 Hard : 14
 
 ---
 
@@ -27,32 +27,4 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 ---
 
 Last Updated:
-02 August 2026 15:28 UTC
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1406-stone-game-iii](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1406-stone-game-iii) |
-## Math
-|  |
-| ------- |
-| [1406-stone-game-iii](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1406-stone-game-iii) |
-## Dynamic Programming
-|  |
-| ------- |
-| [1406-stone-game-iii](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1406-stone-game-iii) |
-## Minimax
-|  |
-| ------- |
-| [1406-stone-game-iii](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1406-stone-game-iii) |
-## Game Theory
-|  |
-| ------- |
-| [1406-stone-game-iii](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1406-stone-game-iii) |
-## Zero-Sum Game
-|  |
-| ------- |
-| [1406-stone-game-iii](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1406-stone-game-iii) |
-<!---LeetCode Topics End-->
+03 August 2026 10:16 UTC
