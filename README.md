@@ -4,8 +4,8 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 ## 📊 Statistics
 
-- ✅ Total Solved : 71
-- 🟢 Easy : 25
+- ✅ Total Solved : 72
+- 🟢 Easy : 26
 - 🟡 Medium : 32
 - 🔴 Hard : 14
 
@@ -27,20 +27,4 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 ---
 
 Last Updated:
-05 August 2026 14:07 UTC
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2073-time-needed-to-buy-tickets](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
-## Queue
-|  |
-| ------- |
-| [2073-time-needed-to-buy-tickets](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
-## Simulation
-|  |
-| ------- |
-| [2073-time-needed-to-buy-tickets](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
-<!---LeetCode Topics End-->
+05 August 2026 14:08 UTC
