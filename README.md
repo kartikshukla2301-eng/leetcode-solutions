@@ -28,3 +28,23 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 Last Updated:
 05 August 2026 13:55 UTC
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Stack
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Simulation
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+<!---LeetCode Topics End-->
