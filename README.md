@@ -28,3 +28,19 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 Last Updated:
 05 August 2026 14:07 UTC
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
+## Simulation
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
+<!---LeetCode Topics End-->
