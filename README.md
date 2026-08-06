@@ -28,3 +28,15 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 Last Updated:
 05 August 2026 14:09 UTC
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+<!---LeetCode Topics End-->
