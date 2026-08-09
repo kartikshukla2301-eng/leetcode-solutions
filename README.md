@@ -4,9 +4,9 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 ## 📊 Statistics
 
-- ✅ Total Solved : 77
+- ✅ Total Solved : 78
 - 🟢 Easy : 29
-- 🟡 Medium : 33
+- 🟡 Medium : 34
 - 🔴 Hard : 15
 
 ---
@@ -27,36 +27,4 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 ---
 
 Last Updated:
-08 August 2026 17:47 UTC
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1140-stone-game-ii](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1140-stone-game-ii) |
-## Math
-|  |
-| ------- |
-| [1140-stone-game-ii](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1140-stone-game-ii) |
-## Dynamic Programming
-|  |
-| ------- |
-| [1140-stone-game-ii](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1140-stone-game-ii) |
-## Minimax
-|  |
-| ------- |
-| [1140-stone-game-ii](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1140-stone-game-ii) |
-## Prefix Sum
-|  |
-| ------- |
-| [1140-stone-game-ii](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1140-stone-game-ii) |
-## Game Theory
-|  |
-| ------- |
-| [1140-stone-game-ii](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1140-stone-game-ii) |
-## Zero-Sum Game
-|  |
-| ------- |
-| [1140-stone-game-ii](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1140-stone-game-ii) |
-<!---LeetCode Topics End-->
+09 August 2026 16:34 UTC
