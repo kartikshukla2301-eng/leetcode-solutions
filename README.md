@@ -4,9 +4,9 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 ## 📊 Statistics
 
-- ✅ Total Solved : 80
+- ✅ Total Solved : 81
 - 🟢 Easy : 30
-- 🟡 Medium : 34
+- 🟡 Medium : 35
 - 🔴 Hard : 16
 
 ---
@@ -27,20 +27,4 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 ---
 
 Last Updated:
-11 August 2026 17:17 UTC
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
-## Hash Table
-|  |
-| ------- |
-| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
-## Sliding Window
-|  |
-| ------- |
-| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
-<!---LeetCode Topics End-->
+12 August 2026 17:58 UTC
