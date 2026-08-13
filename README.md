@@ -4,10 +4,10 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 ## 📊 Statistics
 
-- ✅ Total Solved : 81
+- ✅ Total Solved : 82
 - 🟢 Easy : 30
 - 🟡 Medium : 35
-- 🔴 Hard : 16
+- 🔴 Hard : 17
 
 ---
 
@@ -27,24 +27,4 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 ---
 
 Last Updated:
-12 August 2026 17:58 UTC
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2213-longest-substring-of-one-repeating-character](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
-## String
-|  |
-| ------- |
-| [2213-longest-substring-of-one-repeating-character](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
-## Segment Tree
-|  |
-| ------- |
-| [2213-longest-substring-of-one-repeating-character](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
-## Ordered Set
-|  |
-| ------- |
-| [2213-longest-substring-of-one-repeating-character](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
-<!---LeetCode Topics End-->
+13 August 2026 17:24 UTC
