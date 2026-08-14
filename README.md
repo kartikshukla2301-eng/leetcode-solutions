@@ -28,3 +28,19 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 Last Updated:
 13 August 2026 17:24 UTC
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## String
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+<!---LeetCode Topics End-->
