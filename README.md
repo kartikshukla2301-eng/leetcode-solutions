@@ -4,10 +4,10 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 ## 📊 Statistics
 
-- ✅ Total Solved : 85
+- ✅ Total Solved : 86
 - 🟢 Easy : 31
 - 🟡 Medium : 37
-- 🔴 Hard : 17
+- 🔴 Hard : 18
 
 ---
 
@@ -27,24 +27,4 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 ---
 
 Last Updated:
-16 August 2026 09:04 UTC
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1563-stone-game-v](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1563-stone-game-v) |
-## Math
-|  |
-| ------- |
-| [1563-stone-game-v](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1563-stone-game-v) |
-## Dynamic Programming
-|  |
-| ------- |
-| [1563-stone-game-v](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1563-stone-game-v) |
-## Game Theory
-|  |
-| ------- |
-| [1563-stone-game-v](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1563-stone-game-v) |
-<!---LeetCode Topics End-->
+17 August 2026 18:11 UTC
