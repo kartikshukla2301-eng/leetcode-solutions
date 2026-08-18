@@ -4,8 +4,8 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 ## 📊 Statistics
 
-- ✅ Total Solved : 86
-- 🟢 Easy : 31
+- ✅ Total Solved : 87
+- 🟢 Easy : 32
 - 🟡 Medium : 37
 - 🔴 Hard : 18
 
@@ -27,16 +27,4 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 ---
 
 Last Updated:
-17 August 2026 18:11 UTC
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3471-find-the-largest-almost-missing-integer](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
-## Hash Table
-|  |
-| ------- |
-| [3471-find-the-largest-almost-missing-integer](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
-<!---LeetCode Topics End-->
+18 August 2026 17:23 UTC
