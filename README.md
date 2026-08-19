@@ -28,3 +28,23 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 Last Updated:
 18 August 2026 17:23 UTC
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+## Hash Table
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+## Greedy
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+<!---LeetCode Topics End-->
