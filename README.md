@@ -4,10 +4,10 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 ## 📊 Statistics
 
-- ✅ Total Solved : 89
+- ✅ Total Solved : 90
 - 🟢 Easy : 33
 - 🟡 Medium : 38
-- 🔴 Hard : 18
+- 🔴 Hard : 19
 
 ---
 
@@ -27,32 +27,4 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 ---
 
 Last Updated:
-20 August 2026 16:58 UTC
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
-## Math
-|  |
-| ------- |
-| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
-## Binary Search
-|  |
-| ------- |
-| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
-## Bit Manipulation
-|  |
-| ------- |
-| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
-## Combinatorics
-|  |
-| ------- |
-| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
-## Number Theory
-|  |
-| ------- |
-| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
-<!---LeetCode Topics End-->
+21 August 2026 19:20 UTC
