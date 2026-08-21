@@ -28,3 +28,31 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 Last Updated:
 20 August 2026 16:58 UTC
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Math
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Binary Search
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+<!---LeetCode Topics End-->
