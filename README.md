@@ -28,3 +28,11 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 Last Updated:
 21 August 2026 19:20 UTC
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+<!---LeetCode Topics End-->
