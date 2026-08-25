@@ -28,3 +28,15 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 Last Updated:
 23 August 2026 06:00 UTC
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3718-smallest-missing-multiple-of-k](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+## Hash Table
+|  |
+| ------- |
+| [3718-smallest-missing-multiple-of-k](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+<!---LeetCode Topics End-->
