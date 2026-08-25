@@ -4,8 +4,8 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 ## 📊 Statistics
 
-- ✅ Total Solved : 92
-- 🟢 Easy : 34
+- ✅ Total Solved : 93
+- 🟢 Easy : 35
 - 🟡 Medium : 39
 - 🔴 Hard : 19
 
@@ -20,23 +20,11 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 - 3756-concatenate-non-zero-digits-and-multiply-by-sum-ii (🟡 Medium)
 - 3754-concatenate-non-zero-digits-and-multiply-by-sum-i (🟢 Easy)
 - 3731-find-missing-elements (🟢 Easy)
+- 3718-smallest-missing-multiple-of-k (🟢 Easy)
 - 3702-longest-subsequence-with-non-zero-bitwise-xor (🟡 Medium)
 - 3658-gcd-of-odd-and-even-sums (🟢 Easy)
-- 3622-check-divisibility-by-digit-sum-and-product (🟢 Easy)
 
 ---
 
 Last Updated:
-23 August 2026 06:00 UTC
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3718-smallest-missing-multiple-of-k](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
-## Hash Table
-|  |
-| ------- |
-| [3718-smallest-missing-multiple-of-k](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
-<!---LeetCode Topics End-->
+25 August 2026 16:54 UTC
