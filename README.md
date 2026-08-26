@@ -28,3 +28,15 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 Last Updated:
 25 August 2026 16:55 UTC
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+<!---LeetCode Topics End-->
