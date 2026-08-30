@@ -4,9 +4,9 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 ## 📊 Statistics
 
-- ✅ Total Solved : 95
+- ✅ Total Solved : 96
 - 🟢 Easy : 35
-- 🟡 Medium : 40
+- 🟡 Medium : 41
 - 🔴 Hard : 20
 
 ---
@@ -27,16 +27,4 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 ---
 
 Last Updated:
-26 August 2026 17:20 UTC
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2091-removing-minimum-and-maximum-from-array](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
-## Greedy
-|  |
-| ------- |
-| [2091-removing-minimum-and-maximum-from-array](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
-<!---LeetCode Topics End-->
+30 August 2026 16:45 UTC
