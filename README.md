@@ -28,3 +28,15 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 Last Updated:
 30 August 2026 16:45 UTC
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+<!---LeetCode Topics End-->
