@@ -28,3 +28,15 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 Last Updated:
 02 September 2026 16:21 UTC
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
+<!---LeetCode Topics End-->
