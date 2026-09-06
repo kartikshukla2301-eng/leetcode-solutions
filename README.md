@@ -4,10 +4,10 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 ## 📊 Statistics
 
-- ✅ Total Solved : 99
+- ✅ Total Solved : 100
 - 🟢 Easy : 37
 - 🟡 Medium : 42
-- 🔴 Hard : 20
+- 🔴 Hard : 21
 
 ---
 
@@ -27,16 +27,4 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 ---
 
 Last Updated:
-05 September 2026 15:55 UTC
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0115-distinct-subsequences](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0115-distinct-subsequences) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0115-distinct-subsequences](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/0115-distinct-subsequences) |
-<!---LeetCode Topics End-->
+06 September 2026 18:12 UTC
