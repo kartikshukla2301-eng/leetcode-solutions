@@ -28,3 +28,19 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 Last Updated:
 06 September 2026 18:12 UTC
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+<!---LeetCode Topics End-->
