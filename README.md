@@ -4,9 +4,9 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 ## 📊 Statistics
 
-- ✅ Total Solved : 100
+- ✅ Total Solved : 101
 - 🟢 Easy : 37
-- 🟡 Medium : 42
+- 🟡 Medium : 43
 - 🔴 Hard : 21
 
 ---
@@ -27,20 +27,4 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 ---
 
 Last Updated:
-06 September 2026 18:12 UTC
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-|  |
-| ------- |
-| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
-## Depth-First Search
-|  |
-| ------- |
-| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
-## Binary Tree
-|  |
-| ------- |
-| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
-<!---LeetCode Topics End-->
+10 September 2026 16:34 UTC
