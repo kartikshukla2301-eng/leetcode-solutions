@@ -28,3 +28,15 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 Last Updated:
 13 September 2026 18:19 UTC
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
+<!---LeetCode Topics End-->
