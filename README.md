@@ -28,3 +28,19 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 Last Updated:
 20 September 2026 15:32 UTC
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
+## Math
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
+<!---LeetCode Topics End-->
