@@ -28,3 +28,19 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 Last Updated:
 22 September 2026 18:38 UTC
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+## String
+|  |
+| ------- |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+<!---LeetCode Topics End-->
