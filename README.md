@@ -4,10 +4,10 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 ## 📊 Statistics
 
-- ✅ Total Solved : 105
+- ✅ Total Solved : 106
 - 🟢 Easy : 38
 - 🟡 Medium : 45
-- 🔴 Hard : 22
+- 🔴 Hard : 23
 
 ---
 
@@ -27,4 +27,4 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 ---
 
 Last Updated:
-26 September 2026 15:58 UTC
+29 September 2026 18:30 UTC
