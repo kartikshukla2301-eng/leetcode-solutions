@@ -4,8 +4,8 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 
 ## 📊 Statistics
 
-- ✅ Total Solved : 108
-- 🟢 Easy : 38
+- ✅ Total Solved : 109
+- 🟢 Easy : 39
 - 🟡 Medium : 47
 - 🔴 Hard : 23
 
@@ -27,20 +27,4 @@ Automatically synced from **LeetCode** using **LeetHub v2**.
 ---
 
 Last Updated:
-05 October 2026 17:55 UTC
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [1021-remove-outermost-parentheses](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
-## Stack
-|  |
-| ------- |
-| [1021-remove-outermost-parentheses](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
-## Bracket Sequences
-|  |
-| ------- |
-| [1021-remove-outermost-parentheses](https://github.com/kartikshukla2301-eng/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
-<!---LeetCode Topics End-->
+08 October 2026 17:01 UTC
